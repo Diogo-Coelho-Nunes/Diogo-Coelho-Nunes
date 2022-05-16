@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Diogo-Coelho-Nunes
+- 👀 I’m interested in learning new programming languages...
+- 🌱 I’m currently learning C# by myself...
+- 📫 How to reach me? Here's my linkedIn https://www.linkedin.com/in/diogo-c-nunes-301b43234/ make a connection and send a message...
+
+<!---
+Diogo-Coelho-Nunes/Diogo-Coelho-Nunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
