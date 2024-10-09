@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diogo-Coelho-Nunes
-- 👀 I’m interested in learning new programming languages...
-- 🌱 I’m currently learning C# by myself...
-- 📫 How to reach me? Here's my linkedIn https://www.linkedin.com/in/diogo-c-nunes-301b43234/ make a connection and send a message...
+- 👀 I’m interested in improve my programming skills...
+- 🌱 I’m currently working as a Software Engineer - Android & iOS Developer :)
+- 📫 How to reach me? Here's my linkedIn https://www.linkedin.com/in/diogo-c-nunes/ make a connection and send a message...
 
 <div style="display: inline_block"><br>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -18,11 +18,7 @@
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
-          
-          
-
-          
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />         
 </div>
 
 <!---
